@@ -8,7 +8,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="Wazzup Bro! Hawaii?"><b>Enter Name</b></label>
+    <label for="Mood"><b>Wazzup Bro! Hawaii?</b></label>
     <input type="text" placeholder="Enter smile" name="Name" id="smile" required>
     <br>
 
