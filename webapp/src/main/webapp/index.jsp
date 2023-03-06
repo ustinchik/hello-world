@@ -9,7 +9,7 @@
     <br>
     
     <label for="Mood"><b>Wazzup Bro! Hawaii?</b></label>
-    <input type="text" placeholder="Enter smile" name="Name" id="smile" required>
+    <input type="text" placeholder="Enter :)" name="Name" id="smile" required>
     <br>
 
     <label for="mobile"><b>Enter mobile</b></label>
